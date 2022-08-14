@@ -1,0 +1,12 @@
+configuration{
+	display-drun: "Applications";
+	display-window: "Windows";
+    font: "SpaceMono Nerd Font Mono Regular 12";
+	drun-display-format: "{name}";
+	modi: "window,run,drun";
+    show-icons: true;
+    icon-theme: "Papirus";
+}
+
+//@theme "/usr/share/rofi/themes/arthur.rasi"
+@theme "/usr/share/rofi/themes/DarkBlue.rasi"
